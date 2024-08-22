@@ -62,7 +62,7 @@ h2{
 }
 
 .link-playlist{
-    position:sticky
+    position:sticky;
 }
 
 .contenedor-del-top{
@@ -80,14 +80,15 @@ h2{
 }
 
 .imagen-css{
-    margin-left: 80%;
+    margin-left: 80vw;
     width: 50px
 }
 
 .imagen-html{
     margin-top: 4%;
     margin-left: 1%;
-    width: 50px
+    width: 50px;
+
 }
 
 .div-final-de-pagina{
@@ -99,21 +100,13 @@ h2{
 }
 
 .degradado{
-    width: 100%;
+    width: 100vw;
     height: 60px;
     margin: 0;
-    background: linear-gradient(transparent,#dcdcdc52);
+    background: linear-gradient(transparent,#dcdcdc43);
 }
 
-.instagram{
-    color: black;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    position: absolute;
-    left: 45%;
-    top: 238%
-}
+
 
 
 .opacidad{
@@ -125,4 +118,14 @@ h2{
 
 .nose{
     height: 100%;
+}
+
+.instagram{
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    margin-top: 2.5%;
+    position: absolute;
+    left: 45%;
 }
